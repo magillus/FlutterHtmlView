@@ -1,3 +1,16 @@
+## [0.5.11]
+
+* Overflow and maxLines completed #68 by RoughIndustries was merged
+* Update flutter_html_view.dart #67 by RoughIndustries was merged
+* Update flutter_html_text.dart #66 by RoughIndustries was merged
+* htmltext support to change font-size #63 by ZhongJianpeng was merged
+* fixed html image not shown #61 by The-Redhat was merged
+
+## [0.5.10]
+
+* Version update of dependencies [Pullrequest #56](https://github.com/PonnamKarthik/FlutterHtmlView/pull/56)
+* added onLaunchFail paramete [Pullrequest #58](https://github.com/PonnamKarthik/FlutterHtmlView/pull/58)
+
 ## [0.5.9]
 
 * add base URL to class constructor to support some Html created by online editor.
